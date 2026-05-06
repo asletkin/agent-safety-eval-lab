@@ -1,0 +1,9 @@
+[
+  {
+    "case_id": "TOXIC_FLOW_001",
+    "risk_score": 0,
+    "blocked_terms": [],
+    "events": [],
+    "verdict": "pass"
+  }
+]
